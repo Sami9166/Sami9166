@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pheol9166&layout=compact&theme=dark&text_bold=True&hide_border=True&title_color=579e24) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sami9166&layout=compact&theme=dark&text_bold=True&hide_border=True&title_color=579e24) 
 
 ## Stack
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
